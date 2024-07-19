@@ -102,8 +102,8 @@ function sendMailupdate($id, $send_to, $name_email, $latest_post)
         $mail->Port = 587;
 
         // Enter your email ID
-        $mail->Username = "Your_email";
-        $mail->Password = "Email_key";
+        $mail->Username = "SMTP_HOST";
+        $mail->Password = "SMTP_PASS";
 
         // Your email ID and Email Title
         $mail->setFrom("Your_email", "QDash");
