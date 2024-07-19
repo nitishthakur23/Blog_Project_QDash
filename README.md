@@ -1,4 +1,3 @@
-Sure! Here's a detailed `README.md` file for your PHP and MySQL-based blog project "QDash":
 
 ---
 
@@ -51,6 +50,7 @@ To set up QDash locally on your machine, follow these steps:
    DB_NAME=your_database_name
    DB_USER=your_database_user
    DB_PASS=your_database_password
+   DB_NAME=your_database_name
    SMTP_HOST=your_smtp_host
    SMTP_PASS=your_smtp_password
    ```
@@ -64,6 +64,8 @@ To set up QDash locally on your machine, follow these steps:
    ```
 
 ## Usage
+
+SetUp the database by creating tables.
 
 1. **Sign Up or Log In:**
    - Create a new account or log in to an existing account.
@@ -96,5 +98,3 @@ We welcome contributions to QDash! To contribute, follow these steps:
 QDash is open-source software licensed under the MIT license.
 
 ---
-
-Feel free to customize this README further based on your project specifics and any additional details you might have!
