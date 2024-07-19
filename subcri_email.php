@@ -40,8 +40,8 @@ function sendMail($send_to, $name_email)
         $mail->Port = 587;
 
         // Enter your email ID
-        $mail->Username = "Your_email";
-        $mail->Password = "Email_Key";
+        $mail->Username = "SMTP_HOST";
+        $mail->Password = "SMTP_PASS";
 
         // Your email ID and Email Title
         $mail->setFrom("Your_email", "QDash");
