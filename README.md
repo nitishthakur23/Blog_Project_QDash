@@ -20,7 +20,8 @@ QDash is a dynamic blog website built with PHP and MySQL, utilizing Bootstrap an
 
 ## Demo
 
-![QDash Demo Video](https://youtu.be/igzj1j2Jea0) 
+
+(https://youtu.be/igzj1j2Jea0) 
 
 ## Installation
 
